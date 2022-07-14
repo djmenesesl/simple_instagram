@@ -1,0 +1,40 @@
+body {
+    background-color: lightgray;
+    margin: 0;
+}
+
+header {
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.container {
+    width: 600px;
+    margin: auto;
+    background-color: white;
+}
+
+.imagen img {
+    width: 100%;
+}
+
+.parte_arriba {
+    margin-top: 60px;
+    padding-left: 10px;
+   }
+
+.parte_arriba h2 {
+    width: 300px;
+    display: inline-block;
+}
+
+.parte_arriba span {
+    display: inline-block;
+    color: grey;
+    margin-left: 225px;
+}
+.parrafo{
+    padding: 10px;
+    text-align: center;
+}
